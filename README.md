@@ -6,6 +6,7 @@ Este projeto foi desenvolvido para atender um estacionamento, todo o BackEnd des
 ## Tecnologias utilizadas
 - PHP
 - CSS
+- HTML5
 - JS
 
 Link para o projeto  hospedado via webhost: https://fasparking.000webhostapp.com/fastparking-api/Front-end/
